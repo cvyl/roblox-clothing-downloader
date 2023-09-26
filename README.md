@@ -18,6 +18,7 @@ Feel free to improve it and use this code as a base. Although credit for any pro
 python main.py 1337
 python main.py exampleIDs.txt
 python main.py
+```
 
 ## GIF example of bulk downloading:
 ![funny image](https://i.gyazo.com/270caf51c316e3795e3eddbcf3b0e5db.gif)
