@@ -156,6 +156,6 @@ else:
 
     if new_id:
         download_clothing_image(clothing_id, new_id)
-        os.remove(xml_file_path)
+        os.remove(xml_file_path) # Change this if you want to keep the temporary XML files
 
 cprint('cyan', 'Finished downloading clothing items.')
