@@ -1,14 +1,14 @@
 # roblox-clothing-downloader
-Simple and easy to understand Roblox clothing downloader. This program is able to download single IDs and multiple/Bulk via a text file.
+Simple and easy-to-understand Roblox clothing downloader. This program can download single IDs and multiple/Bulk via a text file.
 It grabs the Item ID from a Link/URL so you don't have to worry about having to manually copy/paste the ID. Although both work.
 
-Feel free to improve it and use this code as a base. Although credit for any project wether open-source or closed-source would be appreciated.
+Feel free to improve it and use this code as a base. Although credit for any project whether open-source or closed-source would be appreciated.
 
 ## How to run
 ```
 1. Download/Clone repository
 2. Extract/Open
-3. Open cmd/powershell/terminal
+3. Open cmd/PowerShell/terminal
 4. pip install -r requirements.txt
 4. Run: python main.py
 ```
